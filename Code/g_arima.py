@@ -4,9 +4,9 @@
 # Adapted by Lucas Miranda
 
 import pandas as pd
-from math import sqrt
 from statsmodels.tsa.arima.model import ARIMA
 from sklearn.metrics import mean_squared_error
+from math import sqrt
 import matplotlib.pyplot as plt
 
 # Carregar os dados da série temporal

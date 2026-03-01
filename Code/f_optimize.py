@@ -1,9 +1,9 @@
 import os
+import matplotlib.pyplot as plt
+from collections import defaultdict
 import re
 import torch
 import torch.optim as optim
-import matplotlib.pyplot as plt
-from collections import defaultdict
 from scipy.interpolate import CubicSpline
 from datetime import datetime, timedelta
 from itertools import combinations
