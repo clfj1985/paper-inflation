@@ -2,12 +2,12 @@
 
 This folder contains the aggregated residual adequacy report for all forecasting
 experiments described in the paper. The file
-`Residual tests.txt` summarizes the autocorrelation and
+`Residual tests.txt` presents the autocorrelation and
 normality diagnostics computed for every model configuration.
 
 The Ljung–Box results show no evidence of residual autocorrelation across any
 dataset or model variant. The Jarque–Bera results indicate that only the
-baseline models produce residuals compatible with normality, while both
+baseline model produce residuals compatible with normality, while both
 uncorrected and corrected sentiment variants exhibit significant deviations,
 primarily due to excess kurtosis.
 
