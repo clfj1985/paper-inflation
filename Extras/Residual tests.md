@@ -1,8 +1,8 @@
 # Residual Diagnostics: Ljung–Box and Jarque–Bera
 
-This folder contains the aggregated residual adequacy results for all forecasting
+This folder contains the aggregated residual adequacy report for all forecasting
 experiments described in the paper. The file
-`Residual tests.txt` reports the autocorrelation and
+`Residual tests.txt` summarizes the autocorrelation and
 normality diagnostics computed for every model configuration.
 
 The Ljung–Box results show no evidence of residual autocorrelation across any
